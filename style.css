@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    border: 6px dotted;
+    border-bottom: none;
+    color: #EAF6F6;
+    width: 4%;
+    margin: 100px auto;
+}
+p {
+    line-height: 2;
+    color: #40514E;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+    margin-bottom: 100px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.pfp {
+    height: 200px;
+    border-radius: 100%;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.quirk {
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+}
+.computer-img {
+    width: 35%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 100%;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   height: 34px;
+   line-height: 40px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   width: 170px;
+   font-size: 20px;
+   padding: 10px;
+   background-color: #0EA6A6;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 100px;
+}
+
+.copyright_credit {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.footer-link {
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link:hover {
+    color: #EAF6F6;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.contact_msg {
+    width: 40%;
+    margin: 40px auto 60px;
+}
