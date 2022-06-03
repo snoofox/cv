@@ -1,3 +1,3 @@
 # cv
 
-https://shoto-fx.github.io/cv
+https://snoofox.github.io/cv
